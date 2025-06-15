@@ -23,7 +23,7 @@ jobs:
       - name: Run SonarQube Analysis
         run: |
           sonar-scanner \
-            -Dsonar.projectKey=armaniaictt_github-actions-2025 \
+            -Dsonar.projectKey=jomacs-github-actions-225 \
             -Dsonar.organization=armaniaictt \
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.token=${{ secrets.SONAR_TOKEN }}

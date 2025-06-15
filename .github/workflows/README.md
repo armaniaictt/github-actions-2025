@@ -9,4 +9,4 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=armaniaictt_github-actions-2025)](https://sonarcloud.io/summary/new_code?id=armaniaictt_github-actions-2025)
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=armaniaictt_github-actions-2025)
-[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=armaniaictt_github-actions-2025)
+
